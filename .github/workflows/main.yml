@@ -1,0 +1,2 @@
+- name: Waves deployer
+  uses: rieset/waves-deployer@v.1.1.0
