@@ -14,7 +14,7 @@
   "dependencies": {
     "@actions/core": "^1.1.0",
     "@waves/node-api-js": "^1.2.1-beta.1",
-    "@waves/waves-transactions": "4.1.8",
+    "@waves/waves-transactions": "4.3.11",
     "yargs": "^16.2.0"
   },
   "devDependencies": {
